@@ -1,0 +1,22 @@
+<html>
+<title>About This E-Commerce</title>
+
+<body style="background-color: gray">
+<h1>Brief Introduction </h1>
+<hr/>
+<p>Hey, there!. Nice to meet you all. <br/>
+Due to modern era of competition has made the situation become tense <br/>
+therefore we would like to compete against other competitors too <br/>
+by buiding this e-commerce site to improve further of our service <br/>
+and hopefully can go and fight with international competitor <br/>
+By the way, this is just a testing code. </p>
+
+<h1>Top Contributors</h1>
+<hr/>
+<p>For more information about the top contributors, please click on the contributors name: <br/>
+<a href="https://www.google.com/search?q=herny&ie=utf-8&oe=utf-8&client=firefox-b-ab" target="_blank">1. Herny Hx </a> <br/>
+<a href="https://www.google.com/search?q=herny&ie=utf-8&oe=utf-8&client=firefox-b-ab#q=Juan" target="_blank">2. Juanljy </a> </p>
+
+
+</body>
+</html>
